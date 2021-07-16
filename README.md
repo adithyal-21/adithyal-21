@@ -4,7 +4,6 @@ Currently pursuing 3rd year of Engineering in Computer Science from Sahyadri Col
 
 Skills: VUE / LARAVEL / HTML / CSS / PYTHON / PHP / VUETIFY / MYSQL
 
-- 🔭 I’m currently working on Hotel Database Managment System
 - 🌱 I’m currently learning Python
 
 
